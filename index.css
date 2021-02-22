@@ -1,0 +1,14 @@
+.calc p
+{
+    background-color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.head{
+    font-size: 30px;
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: right;
+}
